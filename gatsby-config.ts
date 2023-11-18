@@ -6,8 +6,8 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 const config: GatsbyConfig = {
   siteMetadata: {
     siteTitle: `Edwin Gichuhi`,
-    siteTitleAlt: `Edwin - Web Developer Portfolio`,
-    siteHeadline: `Edwin - Web Developer Portfolio`,
+    siteTitleAlt: `Edwin - Software Developer Portfolio`,
+    siteHeadline: `Edwin - Software Developer Portfolio`,
     siteUrl: `https://egichuhis.github.io/`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteImage: `/banner.jpg`,
