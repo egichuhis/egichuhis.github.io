@@ -15,7 +15,6 @@ const config: GatsbyConfig = {
     author: `@egichuhis`,
   },
   trailingSlash: `always`,
-  pathPrefix: "/egichuhis.github.io",
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
